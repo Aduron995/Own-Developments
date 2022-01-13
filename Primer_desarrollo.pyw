@@ -4,7 +4,7 @@ raiz=Tk()
 
 raiz.title("Rody")
 
-miFrame=Frame(raiz, width=1200, height=600)
+miFrame=Frame(raiz, width=1200, height=800)
 miFrame.pack()
 
 cuadroTexto=Entry(miFrame)
